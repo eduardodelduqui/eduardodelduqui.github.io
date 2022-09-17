@@ -1,355 +1,236 @@
 [
-    {
-      "nome": "Administração",
-      "campus": [
-        {
-          "codigo": 301,
-          "nome": "Florianópolis",
-          "turno": "Diurno"
-  
-        },
-        {
-          "codigo": 316,
-          "nome": "Florianópolis",
-          "turno": "Noturno"
-  
-        }
-      ],
-      "cargaHoraria": 3600,
-      "contato": {
-        "telefone": "3721-3888",
-        "email": "administracao@contato.ufsc.br"
-      },
-      "images": [
-        {
-          "url": "https://www.exemplo.com.br",
-          "description": "Descrição exemplo"
-        }
-      ],
-      "videos": [
-        {
-          "url": "https://www.exemplo.com.br",
-          "description": "Descrição exemplo"
-        }
-      ],
-      "coordenador": "Nome do Coordenador",
-      "website": "https://www.exemplo.com.br"
+  {
+    "nome": "Arquitetura e Urbanismo",
+    "codigo": 207,
+    "turno": "Integral",
+    "campus": "Florianópolis",
+    "cargaHoraria": 4680,
+    "contato": {
+      "telefone": "3721-9550",
+      "email": "arq@contato.ufsc.br "
     },
-    {
-      "nome": "Ciências da Computação",
-      "campus": [
-        {
-          "codigo": 208,
-          "nome": "Florianópolis",
-          "turno": "Integral"
-  
-        }
-      ],
-      "cargaHoraria": 3840,
-      "contato": {
-        "telefone": "3721-7553",
-        "email": "cco@contato.ufsc.br"
-      },
-      "images": [
-        {
-          "url": "https://www.exemplo.com.br",
-          "description": "Descrição exemplo"
-        }
-      ],
-      "videos": [
-        {
-          "url": "https://www.exemplo.com.br",
-          "description": "Descrição exemplo"
-        }
-      ],
-      "coordenador": "Nome do Coordenador",
-      "website": "https://www.exemplo.com.br"
+    "logo": "https://arq.ufsc.br/ppc_arq/images/logo_arq_peb.png",
+    "images": [
+      {
+        "url": "https://ibb.co/kBTwJV0",
+        "description": "Descrição exemplo"
+      }
+    ],
+    "videos": [
+      {
+        "url": "https://www.youtube.com/watch?v=WIRuxDV893w",
+        "description": "Apresentação ARQ-UFSC"
+      }
+    ],
+    "coordenador": "Prof. Dr. Eduardo Westphal",
+    "website": "https://arq.ufsc.br/"
+  },
+  {
+    "nome": "Design",
+    "codigo": 454,
+    "turno": "Integral",
+    "campus": "Florianópolis",
+    "cargaHoraria": 3510,
+    "contato": {
+      "telefone": "3721-3728",
+      "email": "design@contato.ufsc.br"
     },
-    {
-      "nome": "Direito",
-      "campus": [
-        {
-          "codigo": 5,
-          "nome": "Florianópolis",
-          "turno": "Noturno"
-        },
-        {
-          "codigo": 303,
-          "nome": "Florianópolis",
-          "turno": "Diurno"
-        }
-      ],
-      "cargaHoraria": 4464,
-      "contato": {
-        "telefone": "3721-5601",
-        "email": "direito@contato.ufsc.br"
-      },
-      "images": [
-        {
-          "url": "https://www.exemplo.com.br",
-          "description": "Descrição exemplo"
-        }
-      ],
-      "videos": [
-        {
-          "url": "https://www.exemplo.com.br",
-          "description": "Descrição exemplo"
-        }
-      ],
-      "coordenador": "Nome do Coordenador",
-      "website": "https://www.exemplo.com.br"
+    "logo": "https://design.ufsc.br/files/2022/04/cropped-logo_site_transp.png",
+    "images": [
+      {
+        "url": "http://noticias.paginas.ufsc.br/files/2015/05/CCE-Obras-Acessibilidade-Foto-Henrique-Almeida-3.jpg",
+        "description": "Corredor das salas de aula"
+      }
+    ],
+    "videos": [
+      {
+        "url": "https://www.youtube.com/watch?v=LdvEIP3Q85c",
+        "description": "Conheça o Design UFSC"
+      }
+    ],
+    "coordenador": "Profª. Drª. Marília Matos Gonçalves",
+    "website": "https://www.design.ufsc.br"
+  },
+  {
+    "nome": "Engenharia Sanitária e Ambiental",
+    "codigo": 211,
+    "turno": "Integral",
+    "campus": "Florianópolis",
+    "cargaHoraria": 4590,
+    "contato": {
+      "telefone": "3721-9423",
+      "email": "sanitaria@contato.ufsc.br"
     },
-    {
-      "nome": "Engenharia Civil",
-      "campus": [
-        {
-          "codigo": 201,
-          "nome": "Florianópolis",
-          "turno": "Integral"
-        }
-      ],
-      "cargaHoraria": 4518,
-      "contato": {
-        "telefone": "3721-2116",
-        "email": "coord.ecv@contato.ufsc.br"
-      },
-      "images": [
-        {
-          "url": "https://www.exemplo.com.br",
-          "description": "Descrição exemplo"
-        }
-      ],
-      "videos": [
-        {
-          "url": "https://www.exemplo.com.br",
-          "description": "Descrição exemplo"
-        }
-      ],
-      "coordenador": "Nome do Coordenador",
-      "website": "https://www.exemplo.com.br"
+    "logo": "https://ens.ufsc.br/files/2020/01/cropped-logo-ens.jpg",
+    "images": [
+      {
+        "url": "http://dens.paginas.ufsc.br/files/2019/12/d7ef83cf.png",
+        "description": "Auditório do Departamento de Engenharia Sanitária e Ambiental"
+      }
+    ],
+    "videos": [
+      {
+        "url": "https://www.youtube.com/watch?v=Q5O3fMqrPyQ",
+        "description": "O curso de graduação de Engenharia Sanitária e Ambiental da UFSC"
+      }
+    ],
+    "coordenador": "Prof. Pablo Heleno Sezerino",
+    "website": "https://www.ens.ufsc.br"
+  },
+  {
+    "nome": "Engenharia de Materiais",
+    "codigo": 236,
+    "turno": "Integral",
+    "campus": "Florianópolis",
+    "cargaHoraria": 4320,
+    "contato": {
+      "telefone": "3721-4023",
+      "email": "emc@contato.ufsc.br"
     },
-    {
-      "nome": "Engenharia Sanitária e Ambiental",
-      "campus": [
-        {
-          "codigo": 211,
-          "nome": "Florianópolis",
-          "turno": "Integral"
-        }
-      ],
-      "cargaHoraria": 4590,
-      "contato": {
-        "telefone": "3721-9423",
-        "email": "sanitaria@contato.ufsc.br"
-      },
-      "images": [
-        {
-          "url": "https://www.exemplo.com.br",
-          "description": "Descrição exemplo"
-        }
-      ],
-      "videos": [
-        {
-          "url": "https://www.exemplo.com.br",
-          "description": "Descrição exemplo"
-        }
-      ],
-      "coordenador": "Nome do Coordenador",
-      "website": "https://www.exemplo.com.br"
+    "logo": "https://www.youtube.com/watch?v=67oYh0a8VeM",
+    "images": [
+      {
+        "url": "https://ibb.co/JqgDDGN",
+        "description": "Laboratório de Materiais - LABMAT"
+      }
+    ],
+    "videos": [
+      {
+        "url": "https://www.youtube.com/watch?v=67oYh0a8VeM",
+        "description": "Apresentação do Curso: Engenharia de Materiais"
+      }
+    ],
+    "coordenador": "Prof. Dr. Celso Peres Fernandes",
+    "website": "https://www.emc.ufsc.br"
+  },
+  {
+    "nome": "Engenharia de Materiais",
+    "codigo": 753,
+    "turno": "Integral",
+    "campus": "Florianópolis",
+    "cargaHoraria": 4320,
+    "contato": {
+      "telefone": "3721-3339",
+      "email": "emc@contato.ufsc.br"
     },
-    {
-      "nome": "Engenharia de Materiais",
-      "campus": [
-          {
-            "codigo": 753,
-            "cidade": "Blumenau",
-            "turno": "Integral"
-          },
-                {
-            "codigo": 236,
-            "cidade": "Florianópolis",
-            "turno": "Integral"
-          }
-      ],
-      "cargaHoraria": 4320
+    "logo": "https://www.youtube.com/watch?v=67oYh0a8VeM",
+    "images": [
+      {
+        "url": "https://ibb.co/JqgDDGN",
+        "description": "Laboratório de Materiais - LABMAT"
+      }
+    ],
+    "videos": [
+      {
+        "url": "https://www.youtube.com/watch?v=67oYh0a8VeM",
+        "description": "Apresentação do Curso: Engenharia de Materiais"
+      }
+    ],
+    "coordenador": "Prof. Dr. Claudio Michel Poffo",
+    "website": "https://www.emc.ufsc.br"
+  },
+  {
+    "nome": "Farmácia",
+    "codigo": 102,
+    "turno": "Integral",
+    "campus": "Florianópolis",
+    "cargaHoraria": 5220,
+    "contato": {
+      "telefone": "3721-6129",
+      "email": "farmacia@contato.ufsc.br"
     },
-    {
-      "nome": "Engenharia Mecânica",
-      "campus": [
-        {
-          "codigo": 203,
-          "nome": "Florianópolis",
-          "turno": "Integral"
-        }
-      ],
-      "cargaHoraria": 4374,
-      "contato": {
-        "telefone": "3721-4023",
-        "email": "emc@contato.ufsc.br"
-      },
-      "images": [
-        {
-          "url": "https://www.exemplo.com.br",
-          "description": "Descrição exemplo"
-        }
-      ],
-      "videos": [
-        {
-          "url": "https://www.exemplo.com.br",
-          "description": "Descrição exemplo"
-        }
-      ],
-      "coordenador": "Nome do Coordenador",
-      "website": "https://www.exemplo.com.br"
+    "logo": "https://ibb.co/Jnstq43",
+    "images": [
+      {
+        "url": "http://farmacia.paginas.ufsc.br/files/2011/05/logografcia1.jpg",
+        "description": "Graduação Farmácia - UFSC"
+      }
+    ],
+    "videos": [
+      {
+        "url": "https://www.youtube.com/watch?v=wkiHepC0hHo",
+        "description": "Projeto Pedagógico Farmácia - UFSC"
+      }
+    ],
+    "coordenador": "Prof.ª Dr.ª Liliete Canes Souza Cordeiro",
+    "website": "https://www.farmacia.ufsc.br"
+  },
+  {
+    "nome": "Medicina",
+    "codigo": 103,
+    "turno": "Integral",
+    "campus": "Florianópolis",
+    "cargaHoraria": 7670,
+    "contato": {
+      "telefone": "3721-2282",
+      "email": "medicina@contato.ufsc.br"
     },
-    {
-      "nome": "Farmácia",
-      "campus": [
-        {
-          "codigo": 102,
-          "nome": "Florianópolis",
-          "turno": "Integral"
-        }
-      ],
-      "cargaHoraria": 5220,
-      "contato": {
-        "telefone": "3721-6129",
-        "email": "farmacia@contato.ufsc.br"
-      },
-      "images": [
-        {
-          "url": "https://www.exemplo.com.br",
-          "description": "Descrição exemplo"
-        }
-      ],
-      "videos": [
-        {
-          "url": "https://www.exemplo.com.br",
-          "description": "Descrição exemplo"
-        }
-      ],
-      "coordenador": "Nome do Coordenador",
-      "website": "https://www.exemplo.com.br"
+    "logo": "https://assets-global.website-files.com/62cc56fc2b55bd9bafba3478/62dfe35e66fa025cadec9568_simbolo_medicina.jpeg",
+    "images": [
+      {
+        "url": "https://medicina.ufsc.br/files/2017/02/Entrada-HUOK.jpg",
+        "description": "Hospital Universitário - UFSC"
+      }
+    ],
+    "videos": [
+      {
+        "url": "https://www.youtube.com/watch?v=bDgaN4Hqzak",
+        "description": "Apresentação do curso de Medicina da UFSC"
+      }
+    ],
+    "coordenador": "Prof. Dr. Edevard José de Araújo",
+    "website": "https://www.medicina.ufsc.br"
+  },
+  {
+    "nome": "Medicina",
+    "codigo": 656,
+    "turno": "Integral",
+    "campus": "Araranguá",
+    "cargaHoraria": 7670,
+    "contato": {
+      "telefone": "3721-6840",
+      "email": "medicina@contato.ufsc.br"
     },
-    {
-      "nome": "Medicina",
-      "campus": [
-        {
-          "codigo": 103,
-          "nome": "Florianópolis",
-          "turno": "Integral"
-        },
-        {
-          "codigo": 656,
-          "nome": "Araranguá",
-          "turno": "Integral"
-        }
-      ],
-      "cargaHoraria": 7670,
-      "contato": {
-        "telefone": "3721-2282",
-        "email": "medicina@contato.ufsc.br"
-      },
-      "images": [
-        {
-          "url": "https://www.exemplo.com.br",
-          "description": "Descrição exemplo"
-        }
-      ],
-      "videos": [
-        {
-          "url": "https://www.exemplo.com.br",
-          "description": "Descrição exemplo"
-        }
-      ],
-      "coordenador": "Nome do Coordenador",
-      "website": "https://www.exemplo.com.br"
+    "logo": "https://assets-global.website-files.com/62cc56fc2b55bd9bafba3478/62dfe35e66fa025cadec9568_simbolo_medicina.jpeg",
+    "images": [
+      {
+        "url": "https://www.exemplo.com.br",
+        "description": "Descrição exemplo"
+      }
+    ],
+    "videos": [
+      {
+        "url": "https://www.youtube.com/watch?v=bDgaN4Hqzak",
+        "description": "Apresentação do curso de Medicina da UFSC"
+      }
+    ],
+    "coordenador": "Profª. Drª. Ana Carolina Lobor Cancelier",
+    "website": "https://www.medicina.ufsc.br"
+  },
+  {
+    "nome": "Odontologia",
+    "codigo": 104,
+    "turno": "Integral",
+    "campus": "Florianópolis",
+    "cargaHoraria": 5274,
+    "contato": {
+      "telefone": "3721-3461",
+      "email": "odontologia@contato.ufsc.br"
     },
-    {
-      "nome": "Nutrição",
-      "campus": [
-        {
-          "codigo": 9,
-          "nome": "Florianópolis",
-          "turno": "Integral"
-        }
-      ],
-      "cargaHoraria": 4302,
-      "contato": {
-        "telefone": "3721-2222",
-        "email": "nutricao@contato.ufsc.br"
-      },
-      "images": [
-        {
-          "url": "https://www.exemplo.com.br",
-          "description": "Descrição exemplo"
-        }
-      ],
-      "videos": [
-        {
-          "url": "https://www.exemplo.com.br",
-          "description": "Descrição exemplo"
-        }
-      ],
-      "coordenador": "Nome do Coordenador",
-      "website": "https://www.exemplo.com.br"
-    },
-    {
-      "nome": "Odontologia",
-      "campus": [
-        {
-          "codigo": 104,
-          "nome": "Florianópolis",
-          "turno": "Integral"
-        }
-      ],
-      "cargaHoraria": 5274,
-      "contato": {
-        "telefone": "3721-3461",
-        "email": "odontologia@contato.ufsc.br"
-      },
-      "images": [
-        {
-          "url": "https://www.exemplo.com.br",
-          "description": "Descrição exemplo"
-        }
-      ],
-      "videos": [
-        {
-          "url": "https://www.exemplo.com.br",
-          "description": "Descrição exemplo"
-        }
-      ],
-      "coordenador": "Nome do Coordenador",
-      "website": "https://www.exemplo.com.br"
-    },
-    {
-      "nome": "Sistemas de Informação",
-      "campus": [
-        {
-          "codigo": 238,
-          "nome": "Florianópolis",
-          "turno": "Noturno"
-        }
-      ],
-      "cargaHoraria": 3600,
-      "contato": {
-        "telefone": "3721-4701",
-        "email": "sin@contato.ufsc.br"
-      },
-      "images": [
-        {
-          "url": "https://www.exemplo.com.br",
-          "description": "Descrição exemplo"
-        }
-      ],
-      "videos": [
-        {
-          "url": "https://www.exemplo.com.br",
-          "description": "Descrição exemplo"
-        }
-      ],
-      "coordenador": "Nome do Coordenador",
-      "website": "https://www.exemplo.com.br"
-    }
-  ]
+    "logo": "https://odt.ccs.ufsc.br/files/2020/01/LOGO-DEZ-2019-2-150.png",
+    "images": [
+      {
+        "url": "http://noticias.paginas.ufsc.br/files/2012/02/odontologia_estagio_verao_2012_1.jpg",
+        "description": "Estudantes de Odontologia participam do Estágio de Verão"
+      }
+    ],
+    "videos": [
+      {
+        "url": "https://www.youtube.com/watch?v=7mlfaDeOw8o",
+        "description": "Conheça o curso de Odontologia da UFSC"
+      }
+    ],
+    "coordenador": "Profª. Drª. Glaucia Santos Zimmermann",
+    "website": "https://www.odontologia.ufsc.br"
+  }
+]
