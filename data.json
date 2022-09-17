@@ -1,0 +1,355 @@
+[
+    {
+      "nome": "Administração",
+      "campus": [
+        {
+          "codigo": 301,
+          "nome": "Florianópolis",
+          "turno": "Diurno"
+  
+        },
+        {
+          "codigo": 316,
+          "nome": "Florianópolis",
+          "turno": "Noturno"
+  
+        }
+      ],
+      "cargaHoraria": 3600,
+      "contato": {
+        "telefone": "3721-3888",
+        "email": "administracao@contato.ufsc.br"
+      },
+      "images": [
+        {
+          "url": "https://www.exemplo.com.br",
+          "description": "Descrição exemplo"
+        }
+      ],
+      "videos": [
+        {
+          "url": "https://www.exemplo.com.br",
+          "description": "Descrição exemplo"
+        }
+      ],
+      "coordenador": "Nome do Coordenador",
+      "website": "https://www.exemplo.com.br"
+    },
+    {
+      "nome": "Ciências da Computação",
+      "campus": [
+        {
+          "codigo": 208,
+          "nome": "Florianópolis",
+          "turno": "Integral"
+  
+        }
+      ],
+      "cargaHoraria": 3840,
+      "contato": {
+        "telefone": "3721-7553",
+        "email": "cco@contato.ufsc.br"
+      },
+      "images": [
+        {
+          "url": "https://www.exemplo.com.br",
+          "description": "Descrição exemplo"
+        }
+      ],
+      "videos": [
+        {
+          "url": "https://www.exemplo.com.br",
+          "description": "Descrição exemplo"
+        }
+      ],
+      "coordenador": "Nome do Coordenador",
+      "website": "https://www.exemplo.com.br"
+    },
+    {
+      "nome": "Direito",
+      "campus": [
+        {
+          "codigo": 5,
+          "nome": "Florianópolis",
+          "turno": "Noturno"
+        },
+        {
+          "codigo": 303,
+          "nome": "Florianópolis",
+          "turno": "Diurno"
+        }
+      ],
+      "cargaHoraria": 4464,
+      "contato": {
+        "telefone": "3721-5601",
+        "email": "direito@contato.ufsc.br"
+      },
+      "images": [
+        {
+          "url": "https://www.exemplo.com.br",
+          "description": "Descrição exemplo"
+        }
+      ],
+      "videos": [
+        {
+          "url": "https://www.exemplo.com.br",
+          "description": "Descrição exemplo"
+        }
+      ],
+      "coordenador": "Nome do Coordenador",
+      "website": "https://www.exemplo.com.br"
+    },
+    {
+      "nome": "Engenharia Civil",
+      "campus": [
+        {
+          "codigo": 201,
+          "nome": "Florianópolis",
+          "turno": "Integral"
+        }
+      ],
+      "cargaHoraria": 4518,
+      "contato": {
+        "telefone": "3721-2116",
+        "email": "coord.ecv@contato.ufsc.br"
+      },
+      "images": [
+        {
+          "url": "https://www.exemplo.com.br",
+          "description": "Descrição exemplo"
+        }
+      ],
+      "videos": [
+        {
+          "url": "https://www.exemplo.com.br",
+          "description": "Descrição exemplo"
+        }
+      ],
+      "coordenador": "Nome do Coordenador",
+      "website": "https://www.exemplo.com.br"
+    },
+    {
+      "nome": "Engenharia Sanitária e Ambiental",
+      "campus": [
+        {
+          "codigo": 211,
+          "nome": "Florianópolis",
+          "turno": "Integral"
+        }
+      ],
+      "cargaHoraria": 4590,
+      "contato": {
+        "telefone": "3721-9423",
+        "email": "sanitaria@contato.ufsc.br"
+      },
+      "images": [
+        {
+          "url": "https://www.exemplo.com.br",
+          "description": "Descrição exemplo"
+        }
+      ],
+      "videos": [
+        {
+          "url": "https://www.exemplo.com.br",
+          "description": "Descrição exemplo"
+        }
+      ],
+      "coordenador": "Nome do Coordenador",
+      "website": "https://www.exemplo.com.br"
+    },
+    {
+      "nome": "Engenharia de Materiais",
+      "campus": [
+          {
+            "codigo": 753,
+            "cidade": "Blumenau",
+            "turno": "Integral"
+          },
+                {
+            "codigo": 236,
+            "cidade": "Florianópolis",
+            "turno": "Integral"
+          }
+      ],
+      "cargaHoraria": 4320
+    },
+    {
+      "nome": "Engenharia Mecânica",
+      "campus": [
+        {
+          "codigo": 203,
+          "nome": "Florianópolis",
+          "turno": "Integral"
+        }
+      ],
+      "cargaHoraria": 4374,
+      "contato": {
+        "telefone": "3721-4023",
+        "email": "emc@contato.ufsc.br"
+      },
+      "images": [
+        {
+          "url": "https://www.exemplo.com.br",
+          "description": "Descrição exemplo"
+        }
+      ],
+      "videos": [
+        {
+          "url": "https://www.exemplo.com.br",
+          "description": "Descrição exemplo"
+        }
+      ],
+      "coordenador": "Nome do Coordenador",
+      "website": "https://www.exemplo.com.br"
+    },
+    {
+      "nome": "Farmácia",
+      "campus": [
+        {
+          "codigo": 102,
+          "nome": "Florianópolis",
+          "turno": "Integral"
+        }
+      ],
+      "cargaHoraria": 5220,
+      "contato": {
+        "telefone": "3721-6129",
+        "email": "farmacia@contato.ufsc.br"
+      },
+      "images": [
+        {
+          "url": "https://www.exemplo.com.br",
+          "description": "Descrição exemplo"
+        }
+      ],
+      "videos": [
+        {
+          "url": "https://www.exemplo.com.br",
+          "description": "Descrição exemplo"
+        }
+      ],
+      "coordenador": "Nome do Coordenador",
+      "website": "https://www.exemplo.com.br"
+    },
+    {
+      "nome": "Medicina",
+      "campus": [
+        {
+          "codigo": 103,
+          "nome": "Florianópolis",
+          "turno": "Integral"
+        },
+        {
+          "codigo": 656,
+          "nome": "Araranguá",
+          "turno": "Integral"
+        }
+      ],
+      "cargaHoraria": 7670,
+      "contato": {
+        "telefone": "3721-2282",
+        "email": "medicina@contato.ufsc.br"
+      },
+      "images": [
+        {
+          "url": "https://www.exemplo.com.br",
+          "description": "Descrição exemplo"
+        }
+      ],
+      "videos": [
+        {
+          "url": "https://www.exemplo.com.br",
+          "description": "Descrição exemplo"
+        }
+      ],
+      "coordenador": "Nome do Coordenador",
+      "website": "https://www.exemplo.com.br"
+    },
+    {
+      "nome": "Nutrição",
+      "campus": [
+        {
+          "codigo": 9,
+          "nome": "Florianópolis",
+          "turno": "Integral"
+        }
+      ],
+      "cargaHoraria": 4302,
+      "contato": {
+        "telefone": "3721-2222",
+        "email": "nutricao@contato.ufsc.br"
+      },
+      "images": [
+        {
+          "url": "https://www.exemplo.com.br",
+          "description": "Descrição exemplo"
+        }
+      ],
+      "videos": [
+        {
+          "url": "https://www.exemplo.com.br",
+          "description": "Descrição exemplo"
+        }
+      ],
+      "coordenador": "Nome do Coordenador",
+      "website": "https://www.exemplo.com.br"
+    },
+    {
+      "nome": "Odontologia",
+      "campus": [
+        {
+          "codigo": 104,
+          "nome": "Florianópolis",
+          "turno": "Integral"
+        }
+      ],
+      "cargaHoraria": 5274,
+      "contato": {
+        "telefone": "3721-3461",
+        "email": "odontologia@contato.ufsc.br"
+      },
+      "images": [
+        {
+          "url": "https://www.exemplo.com.br",
+          "description": "Descrição exemplo"
+        }
+      ],
+      "videos": [
+        {
+          "url": "https://www.exemplo.com.br",
+          "description": "Descrição exemplo"
+        }
+      ],
+      "coordenador": "Nome do Coordenador",
+      "website": "https://www.exemplo.com.br"
+    },
+    {
+      "nome": "Sistemas de Informação",
+      "campus": [
+        {
+          "codigo": 238,
+          "nome": "Florianópolis",
+          "turno": "Noturno"
+        }
+      ],
+      "cargaHoraria": 3600,
+      "contato": {
+        "telefone": "3721-4701",
+        "email": "sin@contato.ufsc.br"
+      },
+      "images": [
+        {
+          "url": "https://www.exemplo.com.br",
+          "description": "Descrição exemplo"
+        }
+      ],
+      "videos": [
+        {
+          "url": "https://www.exemplo.com.br",
+          "description": "Descrição exemplo"
+        }
+      ],
+      "coordenador": "Nome do Coordenador",
+      "website": "https://www.exemplo.com.br"
+    }
+  ]
