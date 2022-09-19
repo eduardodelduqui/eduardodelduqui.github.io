@@ -10,10 +10,15 @@
       "email": "arq@contato.ufsc.br "
     },
     "logo": "https://static.tumblr.com/mus5tre/X84n0fqct/logo_arq_ufsc.png",
+    "cover": "https://i.ibb.co/g98fdbw/arquitetura.jpg",
     "images": [
       {
-        "url": "https://ibb.co/kBTwJV0",
-        "description": "Descrição exemplo"
+        "url": "https://i.ibb.co/g98fdbw/arquitetura.jpg",
+        "description": "Departamento de Arquitetura e Urbanismo - ARQ"
+      },
+      {
+        "url": "https://colegiosaobento.net/wp-content/uploads/2019/06/3-1.jpeg",
+        "description": "Departamento de Arquitetura e Urbanismo - ARQ"
       }
     ],
     "videos": [
@@ -36,11 +41,17 @@
       "email": "design@contato.ufsc.br"
     },
     "logo": "https://design.paginas.ufsc.br/files/2020/11/designufsc_horizontal.png",
+    "cover": "http://portalcce.paginas.ufsc.br/files/2010/12/CCE-2012-Foto-Henrique-Almeida-Agecom-UFSC-e1524851539454.jpg",
     "images": [
       {
         "url": "http://noticias.paginas.ufsc.br/files/2015/05/CCE-Obras-Acessibilidade-Foto-Henrique-Almeida-3.jpg",
         "description": "Corredor das salas de aula"
-      }
+      },
+      {
+        "url": "http://portalcce.paginas.ufsc.br/files/2010/12/CCE-2012-Foto-Henrique-Almeida-Agecom-UFSC-e1524851539454.jpg",
+        "description": "Centro de Comunicação e Expressão - CCE"
+      },
+
     ],
     "videos": [
       {
@@ -62,10 +73,23 @@
       "email": "sanitaria@contato.ufsc.br"
     },
     "logo": "https://i.ibb.co/N9H0ycN/logo-ens.png",
+    "cover": "http://noticias.paginas.ufsc.br/files/2013/07/IMG_1129final.jpg",
     "images": [
       {
         "url": "http://dens.paginas.ufsc.br/files/2019/12/d7ef83cf.png",
         "description": "Auditório do Departamento de Engenharia Sanitária e Ambiental"
+      },
+      {
+        "url": "https://ens.ufsc.br/files/2020/05/tsga.jpg",
+        "description": "Tecnologias Sociais para Gestão da Água - TSGA"
+      },
+      {
+        "url": "https://lapoa.ufsc.br/files/2012/07/579458_387852894599281_590871328_n.jpg",
+        "description": "Laboratório de Potabilização das Águas - LAPOA"
+      },
+      {
+        "url": "http://noticias.paginas.ufsc.br/files/2013/07/IMG_1129final.jpg",
+        "description": "Departamento de Engenharia Sanitária e Ambiental - ENS"
       }
     ],
     "videos": [
@@ -88,9 +112,18 @@
       "email": "emc@contato.ufsc.br"
     },
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCHXhR-csWqqaNRvVvol8GoIUiYZH4245Kbg&usqp=CAU",
+    "cover": "https://galeria.ufsc.br/d/125954-2/5.jpg",
     "images": [
       {
-        "url": "https://ibb.co/JqgDDGN",
+        "url": "https://galeria.ufsc.br/d/125946-2/3.jpg",
+        "description": "Laboratório de Materiais - LABMAT"
+      },
+      {
+        "url": "http://emc.ufsc.br/portal/wp-content/uploads/2017/07/lmpt.jpg",
+        "description": "Laboratório de Meios Porosos e Propriedades Termofísicas - LMPT"
+      },
+      {
+        "url": "https://galeria.ufsc.br/d/125954-2/5.jpg",
         "description": "Laboratório de Materiais - LABMAT"
       }
     ],
@@ -114,6 +147,7 @@
       "email": "emc@contato.ufsc.br"
     },
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCHXhR-csWqqaNRvVvol8GoIUiYZH4245Kbg&usqp=CAU",
+    "cover": "https://bit.ly/3Shi0EO",
     "images": [
       {
         "url": "https://ibb.co/JqgDDGN",
@@ -140,7 +174,16 @@
       "email": "farmacia@contato.ufsc.br"
     },
     "logo": "https://i.ibb.co/6YWw8xX/Matriz-De-Bordado-Farmacia-para-bordar.webp",
+    "cover": "http://farmacia.paginas.ufsc.br/files/2011/05/logografcia1.jpg",
     "images": [
+      {
+        "url": "https://i.ytimg.com/vi/IUaRiosszzI/maxresdefault.jpg",
+        "description": "Laboratório de aulas práticas"
+      },
+      {
+        "url": "http://noticias.paginas.ufsc.br/files/2021/07/ULAC.png.jpeg",
+        "description": "Laboratórios de Análises Clínicas - ULAD/HU-UFSC"
+      },
       {
         "url": "http://farmacia.paginas.ufsc.br/files/2011/05/logografcia1.jpg",
         "description": "Graduação Farmácia - UFSC"
@@ -166,12 +209,18 @@
       "email": "medicina@contato.ufsc.br"
     },
     "logo": "https://assets-global.website-files.com/62cc56fc2b55bd9bafba3478/62dfe35e66fa025cadec9568_simbolo_medicina.jpeg",
+    "cover": "https://medicina.paginas.ufsc.br/files/2017/02/Entrada02OK.jpg",
     "images": [
       {
         "url": "https://medicina.ufsc.br/files/2017/02/Entrada-HUOK.jpg",
         "description": "Hospital Universitário - UFSC"
+      },
+      {
+        "url": "https://medicina.paginas.ufsc.br/files/2017/02/Entrada02OK.jpg",
+        "description": "Curso de Graduação de Medicina"
       }
     ],
+    
     "videos": [
       {
         "url": "https://www.youtube.com/watch?v=bDgaN4Hqzak",
@@ -192,10 +241,11 @@
       "email": "medicina@contato.ufsc.br"
     },
     "logo": "https://assets-global.website-files.com/62cc56fc2b55bd9bafba3478/62dfe35e66fa025cadec9568_simbolo_medicina.jpeg",
+    "cover": "https://medicina.ufsc.br/files/2017/02/Entrada-HUOK.jpg",
     "images": [
       {
-        "url": "https://www.exemplo.com.br",
-        "description": "Descrição exemplo"
+        "url": "https://medicina.ufsc.br/files/2017/02/Entrada-HUOK.jpg",
+        "description": "Hospital Universitário - UFSC"
       }
     ],
     "videos": [
@@ -218,7 +268,12 @@
       "email": "odontologia@contato.ufsc.br"
     },
     "logo": "https://odt.ccs.ufsc.br/files/2020/01/LOGO-DEZ-2019-2-150.png",
+    "cover": "http://noticias.paginas.ufsc.br/files/2012/02/odontologia_estagio_verao_2012_1.jpg",
     "images": [
+      {
+        "url": "https://ufsconline.files.wordpress.com/2015/05/11215272_931546896865907_508462105_o.jpg",
+        "description": "Clínica Odontológica"
+      },
       {
         "url": "http://noticias.paginas.ufsc.br/files/2012/02/odontologia_estagio_verao_2012_1.jpg",
         "description": "Estudantes de Odontologia participam do Estágio de Verão"
