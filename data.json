@@ -21,12 +21,10 @@
         "description": "Departamento de Arquitetura e Urbanismo - ARQ"
       }
     ],
-    "videos": [
-      {
-        "url": "https://www.youtube.com/watch?v=WIRuxDV893w",
-        "description": "Apresentação ARQ-UFSC"
-      }
-    ],
+    "video": {
+      "youtubeId": "WIRuxDV893w",
+      "description": "Apresentação ARQ-UFSC"
+    },
     "coordenador": "Prof. Dr. Eduardo Westphal",
     "website": "https://arq.ufsc.br/"
   },
@@ -52,12 +50,10 @@
         "description": "Centro de Comunicação e Expressão - CCE"
       }
     ],
-    "videos": [
-      {
-        "url": "https://www.youtube.com/watch?v=LdvEIP3Q85c",
-        "description": "Conheça o Design UFSC"
-      }
-    ],
+    "video": {
+      "youtubeId": "LdvEIP3Q85c",
+      "description": "Conheça o Design UFSC"
+    },
     "coordenador": "Profª. Drª. Marília Matos Gonçalves",
     "website": "https://www.design.ufsc.br"
   },
@@ -87,12 +83,10 @@
         "description": "Departamento de Engenharia Sanitária e Ambiental - ENS"
       }
     ],
-    "videos": [
-      {
-        "url": "https://www.youtube.com/watch?v=Q5O3fMqrPyQ",
-        "description": "O curso de graduação de Engenharia Sanitária e Ambiental da UFSC"
-      }
-    ],
+    "video": {
+      "youtubeId": "Q5O3fMqrPyQ",
+      "description": "O curso de graduação de Engenharia Sanitária e Ambiental da UFSC"
+    },
     "coordenador": "Prof. Pablo Heleno Sezerino",
     "website": "https://www.ens.ufsc.br"
   },
@@ -122,12 +116,10 @@
         "description": "Laboratório de Materiais - LABMAT"
       }
     ],
-    "videos": [
-      {
-        "url": "https://www.youtube.com/watch?v=67oYh0a8VeM",
-        "description": "Apresentação do Curso: Engenharia de Materiais"
-      }
-    ],
+    "video": {
+      "youtubeId": "67oYh0a8VeM",
+      "description": "Apresentação do Curso: Engenharia de Materiais"
+    },
     "coordenador": "Prof. Dr. Celso Peres Fernandes",
     "website": "https://www.emc.ufsc.br"
   },
@@ -149,12 +141,10 @@
         "description": "Laboratório de Materiais - LABMAT"
       }
     ],
-    "videos": [
-      {
-        "url": "https://www.youtube.com/watch?v=67oYh0a8VeM",
-        "description": "Apresentação do Curso: Engenharia de Materiais"
-      }
-    ],
+    "video": {
+      "youtubeId": "67oYh0a8VeM",
+      "description": "Apresentação do Curso: Engenharia de Materiais"
+    },
     "coordenador": "Prof. Dr. Claudio Michel Poffo",
     "website": "https://www.emc.ufsc.br"
   },
@@ -184,12 +174,10 @@
         "description": "Graduação Farmácia - UFSC"
       }
     ],
-    "videos": [
-      {
-        "url": "https://www.youtube.com/watch?v=wkiHepC0hHo",
-        "description": "Projeto Pedagógico Farmácia - UFSC"
-      }
-    ],
+    "video": {
+      "youtubeId": "wkiHepC0hHo",
+      "description": "Projeto Pedagógico Farmácia - UFSC"
+    },
     "coordenador": "Prof.ª Dr.ª Liliete Canes Souza Cordeiro",
     "website": "https://www.farmacia.ufsc.br"
   },
@@ -215,12 +203,10 @@
         "description": "Curso de Graduação de Medicina"
       }
     ],
-    "videos": [
-      {
-        "url": "https://www.youtube.com/watch?v=bDgaN4Hqzak",
-        "description": "Apresentação do curso de Medicina da UFSC"
-      }
-    ],
+    "video": {
+      "youtubeId": "bDgaN4Hqzak",
+      "description": "Apresentação do curso de Medicina da UFSC"
+    },
     "coordenador": "Prof. Dr. Edevard José de Araújo",
     "website": "https://www.medicina.ufsc.br"
   },
@@ -242,12 +228,10 @@
         "description": "Hospital Universitário - UFSC"
       }
     ],
-    "videos": [
-      {
-        "url": "https://www.youtube.com/watch?v=bDgaN4Hqzak",
-        "description": "Apresentação do curso de Medicina da UFSC"
-      }
-    ],
+    "video": {
+      "youtubeId": "bDgaN4Hqzak",
+      "description": "Apresentação do curso de Medicina da UFSC"
+    },
     "coordenador": "Profª. Drª. Ana Carolina Lobor Cancelier",
     "website": "https://www.medicina.ufsc.br"
   },
@@ -273,12 +257,10 @@
         "description": "Estudantes de Odontologia participam do Estágio de Verão"
       }
     ],
-    "videos": [
-      {
-        "url": "https://www.youtube.com/watch?v=7mlfaDeOw8o",
-        "description": "Conheça o curso de Odontologia da UFSC"
-      }
-    ],
+    "video": {
+      "youtubeId": "7mlfaDeOw8o",
+      "description": "Conheça o curso de Odontologia da UFSC"
+    },
     "coordenador": "Profª. Drª. Glaucia Santos Zimmermann",
     "website": "https://www.odontologia.ufsc.br"
   }
